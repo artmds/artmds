@@ -6,7 +6,7 @@
 
 <div align="center" id="tech-icons">
  <br>
-  <h3>Minhas Tecnologias e Linguagens</h3>
+  <h3>Tecnologias e Linguagens que eu uso:</h3>
    <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-plain.svg?size=128&color=ffffff">
    <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-plain.svg?size=128&color=ffffff">
    <img align="center" alt="JS" height="30" width="40" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=ffffff">

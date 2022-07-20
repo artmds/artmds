@@ -17,8 +17,8 @@
 ##
 
 <div id="git-stats" align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=artmds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artmds&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=artmds&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artmds&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ##

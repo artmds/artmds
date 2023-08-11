@@ -10,6 +10,10 @@
    <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
    <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
    <img align="center" alt="JS" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+   <img align="center" alt="REACT" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
+   <img align="center" alt="NODE" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+   <img align="center" alt="MONGO" height="30" width="40" src="ttps://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
+
    <br></br>
 </div>
 

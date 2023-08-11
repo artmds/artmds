@@ -13,6 +13,7 @@
    <img align="center" alt="REACT" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
    <img align="center" alt="NODE" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
    <img align="center" alt="MONGO" height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
+   <img align="center" alt="MONGO" height="30" width="40" src="https://icongr.am/simple/tailwindcss.svg?size=128&color=0fcfff&colored=false">
 
    <br></br>
 </div>

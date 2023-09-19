@@ -1,4 +1,4 @@
-<div id="presentation" align="center">
+<div id="presentation" align="left">
   <br></br>
 
   <h1>Olá, eu sou o Arthur! Atualmente sou estudante de Engenharia de Software pela UnB!</h1>

@@ -1,6 +1,5 @@
 <div id="presentation" align="left">
   <br></br>
-
   <h1>Olá, eu sou o Arthur! Atualmente sou estudante de Engenharia de Software pela UnB!</h1>
 </div>
 
@@ -14,7 +13,6 @@
    <img align="center" alt="NODE" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
    <img align="center" alt="MONGO" height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
    <img align="center" alt="MONGO" height="30" width="40" src="https://icongr.am/simple/tailwindcss.svg?size=128&color=0fcfff&colored=false">
-
    <br></br>
 </div>
 
@@ -30,5 +28,5 @@
 
 <div id="social-media" align="center"> 
   <h4>Contato</h4>
-  <a href = "mailto:arthur.mdsousa@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:arthur.mdsousa@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-sousa-514478206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

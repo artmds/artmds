@@ -1,19 +1,30 @@
 <div id="presentation" align="left">
   <br></br>
-  <h3>Olá, eu sou o Arthur! Atualmente sou estudante de Engenharia de Software pela UnB!</h3>
+  <h3>Olá, eu sou o Arthur! Seja bem vindo ao meu GitHub!</h3>
 </div>
 
-<div align="center" id="tech-icons">
+<div align="left" id="infos" width="50%">
  <br>
-  <h3>Tecnologias e Linguagens que eu uso: </h3>
-   <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
-   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-   <img align="center" alt="JS" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-   <img align="center" alt="REACT" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
-   <img align="center" alt="NODE" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
-   <img align="center" alt="MONGO" height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
-   <img align="center" alt="MONGO" height="30" width="40" src="https://icongr.am/simple/tailwindcss.svg?size=128&color=0fcfff&colored=false">
+    <ul>
+      <li>💻 Graduando em Engenharia de Software pela UnB</li>
+      <li>☕ Foco em desenvolvimento fullstack</li>
+      <li>📖 Atualmente me aprofundando em Typescript, Node e MongoDB</li>
+    </ul>
+
+  <div align=left class="tech-icons">
+     <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
+     <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
+     <img align="center" alt="JS" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+     <img align="center" alt="REACT" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
+     <img align="center" alt="NODE" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+     <img align="center" alt="MONGO" height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
+     <img align="center" alt="MONGO" height="30" width="40" src="https://icongr.am/simple/tailwindcss.svg?size=128&color=0fcfff&colored=false">
+  </div>
    <br></br>
+</div>
+
+<div width="50%" align="right">
+  <img alt="programming-gif" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif">
 </div>
 
 

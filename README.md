@@ -1,6 +1,6 @@
 <div id="presentation" align="left">
   <br></br>
-  <h1>Olá, eu sou o Arthur! Atualmente sou estudante de Engenharia de Software pela UnB!</h1>
+  <h3>Olá, eu sou o Arthur! Atualmente sou estudante de Engenharia de Software pela UnB!</h3>
 </div>
 
 <div align="center" id="tech-icons">

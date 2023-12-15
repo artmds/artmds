@@ -1,6 +1,6 @@
 
 
-<section class="presentation" align="center" width="50%">
+<section class="presentation" width="50%">
 
   <h3>Olá, eu sou o Arthur! Seja bem vindo ao meu GitHub!</h3>
 
@@ -40,10 +40,6 @@
 
   <br>
 </section>
-
-
-
-  <br><br>
   
   <div id="social-media" align="center"> 
     <h4>Contato</h4>

@@ -25,13 +25,6 @@
   </div>
 
   <br><br>
-
-  <section id="right" width="50%" align="center">
-  <div>
-      <img alt="programming-gif" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" width="60%">
-  </div>
-  </section>
-  <br>  
   
   <div id="git-stats" align="center">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=artmds&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>

@@ -7,8 +7,8 @@
   <div class="infos">
   <br>
       <ul>
-          <li>💻 Graduando em Engenharia de Software pela UnB</li>
-          <li>☕ Foco em desenvolvimento fullstack</li>
+          <li>💻 Estudante de Análise e Desenvolvimento de Sistemas</li>
+          <li>☕ Tenho foco em Dev Fullstack e Cybersegurança</li>
           <li>📖 Atualmente me aprofundando em Typescript, Node e MongoDB</li>
       </ul>
   </div>
